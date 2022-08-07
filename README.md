@@ -1,0 +1,2 @@
+# ISL_dataset
+The dataset contains the RGB images of hand gestures of twenty ISL words, namely, ‘afraid’,’agree’,’assistance’,’bad’,’become’,’college’,’doctor’,’from’,’pain’,’pray’, ’secondary’, ’skin’, ’small’, ‘specific’, ‘stand’, ’today’, ‘warn’, ‘which’, ‘work’, ‘you’’ which are commonly used to convey messages or seek support during medical situations. All the words included in this dataset are static. The images were captured from 8 individuals including 6 males and 2 females in the age group of 9 years to 30 years
